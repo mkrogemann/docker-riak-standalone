@@ -4,7 +4,7 @@
 
 This image should allow you to bring up a Riak single node server that uses leveldb as its storage backend and enables the solr based search.
 
-Why did I create it? There are a lot of alternatives around, often times these alternatives are far more generic and configurable than this image. But I found none of them to be working well for me and begin up to date with respect to recent Riak releases. We use 2.2.5 here and this is hard wired as it's good enough for me.
+Why did I create it? There are a lot of alternatives around, often times these alternatives are far more generic and configurable than this image. But I found none of them to be working well for me and being up to date with respect to recent Riak releases. We use 2.2.5 here and this is hard wired as it's good enough for me.
 
 ## Build
 
